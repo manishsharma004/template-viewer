@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktemplate_viewer=self.webpackChunktemplate_viewer||[]).push([[962],{4962:(e,r,t)=>{t.r(r),t.d(r,{default:()=>l});var s=t(7146),i=t.n(s);const l=new class{constructor(){this.partials=[],this.helpers=[],this.compile=i().compile}render(e,r){return i().compile(e)(r)}addPartial(e,r){i().registerPartial(e,r),this.partials.push(e)}listPartials(){return Object.freeze(this.partials)}addHelper(e,r){i().registerHelper(e,r),this.helpers.push(e)}listHelpers(){return Object.freeze(this.helpers)}}}}]);
+//# sourceMappingURL=962.d9fe2e13.chunk.js.map
